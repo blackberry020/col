@@ -4,3 +4,6 @@
 [submodule "kollok_11_23"]
 	path = kollok_11_23
 	url = https://github.com/blackberry020/kollok_11_23.git
+[submodule "kr2_z2"]
+	path = kr2_z2
+	url = https://github.com/blackberry020/kr2_z2
